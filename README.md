@@ -2,7 +2,7 @@
 
 In this project, I am using transfer learning to train Sign Language Classifier using **resnet34** pretrained model. The model is implemented in PyTorch.
 
-![](https://github.com/ankitvashisht12/sign-language-classifier/blob/master/datasets_3258_5337_amer_sign2.png)
+![](https://github.com/ankitvashisht12/sign-language-classifier/blob/master/images/datasets_3258_5337_amer_sign2.png)
 
 ## Useful Links 
 
